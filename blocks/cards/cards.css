@@ -4,7 +4,7 @@
 
 .cards > ul {
   list-style: none;
-  width:33%;
+
   margin: 0;
   padding: 0;
   display: grid;
@@ -14,6 +14,7 @@
 
 .cards > ul > li {
   border: 1px solid var(--dark-color);
+  width:33%;
   background-color: var(--background-color);
 }
 
