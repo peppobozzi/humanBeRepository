@@ -144,7 +144,7 @@ a:hover {
 /* buttons */
 a.button:any-link,
 button {
-  text-color: white;
+  color: white;
   align-items: center;
   font-family: var(--body-font-family);
   display: inline-block;
